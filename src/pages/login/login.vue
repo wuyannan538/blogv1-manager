@@ -34,6 +34,9 @@ export default {
 }
 </script>
 
-<style scope>
-
+<style scoped>
+.container {
+  height: 100%;
+  background: url("../../assets/css/images/bg.jpg") no-repeat 0 0;
+}
 </style>
